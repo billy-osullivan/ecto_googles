@@ -42,3 +42,6 @@ python 3.7
 # REQUIREMENTS
  sudo pip3 install adafruit-blinka
  sudo pip3 install adafruit-circuitpython-mlx90640
+ 
+# STL's
+ Available at https://www.printables.com/model/285148-ghostbusters-ecto-goggles
